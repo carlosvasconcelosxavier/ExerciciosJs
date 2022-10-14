@@ -1,0 +1,40 @@
+#principal{
+    width: 500px;
+    height: 500px;
+    background-image: linear-gradient(to bottom right, rgb(255, 255, 255) , rgb(148, 148, 148));
+
+    margin: 0 auto;
+    border-radius: 100px;
+    border: solid red 5px;
+    box-shadow: 10px 5px 5px black;
+
+
+}
+#paragrafo{
+    margin-bottom: 50px;
+    margin-top: 130px;
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: center;
+    text-align: center;
+    line-height: 28px;
+}
+.um{
+    background-color: red;
+    color: white;
+}
+.dois{
+    font-size: 18pt;
+    font-weight: bold;
+}
+.tres{
+    color: green;
+    font-weight: bold;
+    background-color: black;
+    text-decoration: line-through;
+}
+.quatro{
+    color: red;
+    font-weight: bold;
+    text-decoration: underline black;
+}

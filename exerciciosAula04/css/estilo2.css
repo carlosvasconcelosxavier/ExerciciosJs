@@ -1,0 +1,9 @@
+#saida{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50pt;
+    background: black;
+    border-radius: 130px;
+    width: 500px;
+    color: white;
+    text-align: center;
+}
